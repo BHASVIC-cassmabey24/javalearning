@@ -1,6 +1,6 @@
 # javalearning
 ## _Variables_
-[Variables](#variables-explanation)
+- [ ] [Variables](#variables-explanation)
 - [ ] String
 - [ ] List
 - [ ] Arrays
