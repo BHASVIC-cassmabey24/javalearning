@@ -19,12 +19,9 @@
 - [ ] [Break and Continue](#break-and-continue)
 
 ## _Methods_
-- [ ] [Methods]
-- [ ] [Method Perameter]
-- [ ] [Switch Statements]
-- [ ] [Switch Statements]
-- [ ] [Switch Statements]
-- [ ] [Switch Statements]
+- [ ] [Methods](#methods)
+- [ ] [Method Perameter](#method-perameter)
+- [ ] [Switch Statements](#switch-statement)
 
 
 
@@ -46,6 +43,7 @@
 ### Break and Continue
 
 ### Methods
-### Methods Perameter
+### Method Perameter
+### Switch Statements
 
 
