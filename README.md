@@ -1,12 +1,12 @@
 # javalearning
 ## _Variables_
 - [ ] [Variables](#variables-explanation)
-- [ ] String
-- [ ] List
-- [ ] Arrays
-- [ ] Data Types
-- [ ] Operators
-- [ ] Booleans
+- [ ] [String](#strings-explanation)
+- [ ] [List](#list-explanation)
+- [ ] [Arrays](#arrays-explanation)
+- [ ] [Data Types](#data-types-explanation)
+- [ ] [Operators](#operators-explanation)
+- [ ] [Booleans](#boolean-explanation)
       
 ## _Selection_
 - [ ] If and If else statements
@@ -32,3 +32,10 @@
 
 
 ### Variables Explanation
+### Strings Explanation
+### List Explanation
+### Arrays Explanation
+### Data Types Explanation
+### Operators Explanation
+### Boolean Explanation
+
