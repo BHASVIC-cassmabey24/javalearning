@@ -7,12 +7,25 @@
 - [ ] [Data Types](#data-types-explanation)
 - [ ] [Operators](#operators-explanation)
 - [ ] [Booleans](#boolean-explanation)
+
+### Variables Explanation
+### Strings Explanation
+### List Explanation
+### Arrays Explanation
+### Data Types Explanation
+### Operators Explanation
+### Boolean Explanation
       
 ## _Selection_
-- [ ] If and If else statements
-- [ ] Switch Statements
-- [ ] Functions
-      
+- [ ] [If and If else statements](#If-and-If-else-statements)
+- [ ] [Switch Statements](#list-explanation)
+- [ ] [Functions](#functions)
+
+### If and If else statements
+### Switch Statements
+### Functions
+
+
 ## _Iteration_
 - [ ] While Statements
 - [ ] For Statements
@@ -31,11 +44,5 @@
 
 
 
-### Variables Explanation
-### Strings Explanation
-### List Explanation
-### Arrays Explanation
-### Data Types Explanation
-### Operators Explanation
-### Boolean Explanation
+
 
