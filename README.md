@@ -69,7 +69,24 @@ To print out the list you use the normal println function and just the name of t
 | double | 8 bytes   | 	Stores fractional numbers. Sufficient for storing 15 to 16 decimal digits   |
 | boolean | 1 byte   | 	Stores true or false values   |
 | char | 2 bytes   | 	Stores a single character/letter or ASCII values |
+
+data types are in two groups:
+
+ - Primitive data types - includes byte, short, int, long, float, double, boolean and char
+ - Non-primitive data types - such as String, Arrays and Classes (you will learn more about these in a later chapter)
 ### Operators Explanation
+operaters in java are the same as in other langs. there are
+```
++ addition
+- subtraction
+= equals
+* multiplication
+/ division
+There is no operator for integer divide, instead the result variable must be an int as it would cut off the decimal
+% modulus 
+++ incriment by 1
+-- decrement by 1
+```
 ### Boolean Explanation
 
 
