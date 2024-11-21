@@ -1,8 +1,7 @@
 # javalearning
 ## _Variables_
 - [ ] [Variables](#variables-explanation)
-- [ ] [String](#strings-explanation)
-- [ ] [List](#list-explanation)
+- [ ] [List](#arrays-explanation)
 - [ ] [Arrays](#arrays-explanation)
 - [ ] [Data Types](#data-types-explanation)
 - [ ] [Operators](#operators-explanation)
@@ -40,10 +39,24 @@ char myLetter = 'D';
 boolean myBool = true; 
 String myText = "Hello"; 
 ```
-
-### Strings Explanation
-### List Explanation
 ### Arrays Explanation
+java does not have a built in list or array functionality. therefore you have to import it
+```java
+import java.util.ArrayList;
+ArrayList<String> cars = new ArrayList<String>();
+```
+to make an array, you have to specify the data type which the array would be in <>.
+
+When adding things to a list, you have to use the .add function to the list
+```java
+ArrayList<String> cars = new ArrayList<String>();
+cars.add("Volvo");
+cars.add("BMW");
+cars.add("Ford");
+cars.add("Mazda");
+System.out.println(cars);
+```
+To print out the list you use the normal println function and just the name of the array or list.
 ### Data Types Explanation
 ### Operators Explanation
 ### Boolean Explanation
