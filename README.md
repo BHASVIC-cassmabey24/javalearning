@@ -5,7 +5,6 @@
 - [ ] [Arrays](#arrays-explanation)
 - [ ] [Data Types](#data-types-explanation)
 - [ ] [Operators](#operators-explanation)
-- [ ] [Booleans](#boolean-explanation)
       
 ## _Selection_
 - [ ] [If and If else statements](#if-and-if-else-statements)
@@ -87,7 +86,6 @@ There is no operator for integer divide, instead the result variable must be an 
 ++ incriment by 1
 -- decrement by 1
 ```
-### Boolean Explanation
 
 
 ### If and If else statements
