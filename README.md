@@ -7,6 +7,26 @@
 - [ ] [Data Types](#data-types-explanation)
 - [ ] [Operators](#operators-explanation)
 - [ ] [Booleans](#boolean-explanation)
+      
+## _Selection_
+- [ ] [If and If else statements](#If-and-If-else-statements)
+- [ ] [Switch Statements](#list-explanation)
+- [ ] [Functions](#functions)
+
+## _Iteration_
+- [ ] [While Statements](#while-statements)
+- [ ] [For Statements](#for-statements)
+- [ ] [Break and Continue](#break-and-continue)
+
+## _Methods_
+- [ ] [Methods]
+- [ ] [Method Perameter]
+- [ ] [Switch Statements]
+- [ ] [Switch Statements]
+- [ ] [Switch Statements]
+- [ ] [Switch Statements]
+
+
 
 ### Variables Explanation
 ### Strings Explanation
@@ -15,34 +35,17 @@
 ### Data Types Explanation
 ### Operators Explanation
 ### Boolean Explanation
-      
-## _Selection_
-- [ ] [If and If else statements](#If-and-If-else-statements)
-- [ ] [Switch Statements](#list-explanation)
-- [ ] [Functions](#functions)
+
 
 ### If and If else statements
 ### Switch Statements
 ### Functions
 
+### While Statements
+### For Statements
+### Break and Continue
 
-## _Iteration_
-- [ ] While Statements
-- [ ] For Statements
-- [ ] Break and Continue
-
-## _Methods_
-- [ ] Methods
-- [ ] Method Perameter
-- [ ] Switch Statements
-- [ ] Switch Statements
-- [ ] Switch Statements
-- [ ] Switch Statements
-[Custom foo description]
-
-
-
-
-
+### Methods
+### Methods Perameter
 
 
