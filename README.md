@@ -89,6 +89,7 @@ There is no operator for integer divide, instead the result variable must be an 
 
 
 ### If and If else statements
+
 ### Switch Statements
 ### Functions
 
