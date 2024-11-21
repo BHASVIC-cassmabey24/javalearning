@@ -1,6 +1,6 @@
 # javalearning
 ## _Variables_
-- [ ] Variables
+[Variables](#variables-explanation)
 - [ ] String
 - [ ] List
 - [ ] Arrays
@@ -25,3 +25,10 @@
 - [ ] Switch Statements
 - [ ] Switch Statements
 - [ ] Switch Statements
+[Custom foo description]
+
+
+
+
+
+### Variables Explanation
