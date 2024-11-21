@@ -9,7 +9,7 @@
 - [ ] [Booleans](#boolean-explanation)
       
 ## _Selection_
-- [ ] [If and If else statements](#If-and-If-else-statements)
+- [ ] [If and If else statements](#if-and-if-else-statements)
 - [ ] [Switch Statements](#list-explanation)
 - [ ] [Functions](#functions)
 
@@ -26,6 +26,21 @@
 
 
 ### Variables Explanation
+Java has the same data types as lots of the other ones:
+- string
+- int
+- float
+- char
+- bool
+they are assigned through saying the data type and then the name. for example:
+```java
+int myNum = 5;             
+float myFloatNum = 5.99f;
+char myLetter = 'D';
+boolean myBool = true; 
+String myText = "Hello"; 
+```
+
 ### Strings Explanation
 ### List Explanation
 ### Arrays Explanation
