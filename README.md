@@ -7,8 +7,8 @@
 - [x] [Operators](#operators-explanation)
       
 ## _Selection_
-- [ ] [If and If else statements](#if-and-if-else-statements)
-- [ ] [Switch Statements](#switch-statements)
+- [x] [If and If else statements](#if-and-if-else-statements)
+- [x] [Switch Statements](#switch-statements)
 - [ ] [Functions](#functions)
 
 ## _Iteration_
@@ -102,6 +102,19 @@ In short hand if else, you can reduce errors by having one line if statments.
 The value before the `?` is often an expression which equates to true or false. This is when the expression before determines whether the value with the ? is assigned to the variable, or the value after the : which is if it is false.
 
 ### Switch Statements
+The switch statement works almost exactly like C. It requires breaks to prevent things from flowing to the next one, and has a default if none of theme are true.
+```java
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+```
 ### Functions
 
 ### While Statements
