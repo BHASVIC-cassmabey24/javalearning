@@ -1,14 +1,14 @@
 # javalearning
 ## _Variables_
-- [ ] [Variables](#variables-explanation)
-- [ ] [List](#arrays-explanation)
-- [ ] [Arrays](#arrays-explanation)
-- [ ] [Data Types](#data-types-explanation)
-- [ ] [Operators](#operators-explanation)
+- [x] [Variables](#variables-explanation)
+- [x] [List](#arrays-explanation)
+- [x] [Arrays](#arrays-explanation)
+- [x] [Data Types](#data-types-explanation)
+- [x] [Operators](#operators-explanation)
       
 ## _Selection_
 - [ ] [If and If else statements](#if-and-if-else-statements)
-- [ ] [Switch Statements](#list-explanation)
+- [ ] [Switch Statements](#switch-statements)
 - [ ] [Functions](#functions)
 
 ## _Iteration_
@@ -89,6 +89,17 @@ There is no operator for integer divide, instead the result variable must be an 
 
 
 ### If and If else statements
+When it comes to if else statements, operaters are used to determine certain things.
+It works like in other languages.
+Unlike python, there are no elif statements, instead it is a else if statement such in C.
+Else is being used in the way where if something is not the value you originally tested, you can use it.
+
+*Short hand if else:*
+```java
+variable = (condition) ? expressionTrue :  expressionFalse;
+```
+In short hand if else, you can reduce errors by having one line if statments.
+The value before the `?` is often an expression which equates to true or false. This is when the expression before determines whether the value with the ? is assigned to the variable, or the value after the : which is if it is false.
 
 ### Switch Statements
 ### Functions
